@@ -1,6 +1,5 @@
-## GIT HUB HOSTED URL:
-
-https://haritatoboso.github.io/TinDog/
+## GITHUB HOSTED URL:
+https://harita-gr.github.io/TinDog/
 
 
 # Dating app for Dogs
